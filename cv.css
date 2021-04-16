@@ -1,0 +1,19 @@
+border{
+   color: solid black;
+   size: 1em;
+}
+
+.header h1{
+    position: centre;
+    font-family: bold;
+}
+
+.contact{
+    margin-right: 1em;
+    padding: 0em;
+}
+
+.edu h3{
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
